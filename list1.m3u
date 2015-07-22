@@ -42,8 +42,7 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
 
 #EXTINF:-1,Fashion TV
 http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
-#EXTINF:-1,Media tv
-rtmp://hdmedia3d.vintera.tv/hdmedia3d//hdmedia3d.stream
+
 #EXTINF:-1,Sky News
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
 #EXTINF:-1,BBC News
@@ -52,12 +51,7 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-1,FOX SPORTS NEWS HD
-http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
-#EXTINF:-1, Sky Movies Premiere
-http://185.56.30.127:8082/TV4251
-#EXTINF:-1, Sky Movies Comedy
-http://185.56.30.127:8082/TV4246
+
 #EXTINF:0,El trece
 rtsp://stream.eltrecetv.com.ar:554/live13/13tv/13tv1
 #EXTINF:0,MAGAZINE
@@ -66,12 +60,10 @@ rtsp://stream.mgzn.tv:554/live/mgzntv/mgzntv
 http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8?
 #EXTINF:0,TELEFE
 http://live-edge01.telecentro.net.ar/live/tlfhd-360/playlist.m3u8?
-#EXTINF:0,TVP CANAL 7
+#EXTINF:0,CANAL 26
 rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
-#EXTINF:0,CANAL26
+#EXTINF:0,TVP
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8
-
- 
 
 #EXTINF:-1 group-title="lunes 20 de julio",:. 20 DE JULIO :.
 http://?
